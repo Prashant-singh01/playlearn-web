@@ -1,4 +1,5 @@
 {
+    "id": "/",
     "name": "PlayLearn",
     "short_name": "PlayLearn",
     "description": "Interactive learning for kids — alphabets, numbers and more.",
@@ -16,6 +17,19 @@
         {
             "src": "/icons/icon-512.png",
             "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshots/screen-welcome.png",
+            "sizes": "1200x800",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/screenshots/screen-home.png",
+            "sizes": "800x1200",
             "type": "image/png"
         }
     ]
